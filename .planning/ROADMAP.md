@@ -18,6 +18,7 @@ Decimal phases appear between their surrounding integers in numeric order.
 ## Phase Details
 
 ### Phase 1: Core UI
+**Status**: In Progress
 **Goal**: Users can create tasks and see them listed in a working app
 **Depends on**: Nothing (first phase)
 **Requirements**: TASK-01, ORG-01
