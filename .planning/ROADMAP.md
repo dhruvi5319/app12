@@ -40,10 +40,10 @@ Plans:
   1. Tasks added in Phase 1 are still visible after a full browser page refresh
   2. Tasks survive closing and reopening the browser tab
   3. No tasks are lost between sessions on the same device/browser
-**Plans**: TBD
+**Plans**: 1 plan
 
 Plans:
-- [ ] 02-01: Local storage read/write integration
+- [ ] 02-01-PLAN.md — Wire localStorage into app.js + Playwright persistence tests
 
 ## Progress
 
