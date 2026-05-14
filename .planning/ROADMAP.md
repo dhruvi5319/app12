@@ -26,11 +26,11 @@ Decimal phases appear between their surrounding integers in numeric order.
   2. User can type a task title and submit it to add the task
   3. All added tasks appear in a list on screen immediately after creation
   4. The UI is usable without errors from first load
-**Plans**: TBD
+**Plans**: 2 plans
 
 Plans:
-- [ ] 01-01: Project scaffold (HTML/CSS/JS structure, entry point)
-- [ ] 01-02: Task creation and list rendering
+- [ ] 01-01-PLAN.md — Scaffold HTML/CSS/JS app shell + Playwright test infrastructure
+- [ ] 01-02-PLAN.md — Task creation logic, list rendering, and E2E Playwright tests
 
 ### Phase 2: Persistence
 **Goal**: Tasks are retained across page refreshes without any user action
